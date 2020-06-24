@@ -3,7 +3,7 @@
 
 本篇是ASD & ADHD的外网资源合集, 如无特殊说明社交网站和视频均需科学上网。
 
-本文将会不定时修订或添加新内容，中文篇合集也会在本月尽早发出。
+本文将会不定时修订或添加新内容，需要看墙内资源整理点击[这里](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/ND_resourcesCN.md)。
 
 以下整理均为我自己用过觉得帮助或者有趣的信息资源， 希望能够帮到有需要的谱系朋友。
 
