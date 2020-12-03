@@ -1,5 +1,6 @@
 青少年和成人ADHD & ASD 相关交流互助和应对机制整理 （外网篇）
 ====
+**版本：2020.12.03**
 
 本篇是ASD & ADHD的外网资源合集, 如无特殊说明社交网站和视频均需科学上网。
 
@@ -30,11 +31,13 @@
 		* 小组：Autistic women （注意是创建日期为2012年1月2日的组）。
 		
 # **Youtube视频科普**
+## 讲座
 **Tony Attwood**
 这位教授是英澳闻名的ASD医生，著有《阿斯伯格症完全手册》，我认识的一个朋友（真）就是他诊断的👍 。
 *  [Tony Attwood - Aspergers in Girls (Asperger Syndrome) - YouTube](https://www.youtube.com/watch?v=wfOHnt4PMFo&t=548s)
 *  [Is Asperger’s syndrome the next stage of human evolution?: Tony Attwood | Australian Story - YouTube](https://www.youtube.com/watch?v=vdQDvLXLqiM)
 
+## 个人经历分享
  **ASD & ADHD 人士的对自己症状的演讲or采访**
 * 21 岁的Tashi Baiguerra：我不是失败者 [My brain isn’t broken | Tashi Baiguerra | TEDxLondon - YouTube](https://www.youtube.com/watch?v=D8j1fcQiyBU) 
 		
@@ -56,7 +59,15 @@
 	* 强烈，强烈推荐
 	* ADHD科普和应对机制教程——来自有ADHD的创业播主Jessica (她上过Ted 我看哭了，太有共鸣  
 	* Ted：[Failing at Normal: An ADHD Success Story | Jessica McCabe | TEDxBratislava - YouTube](https://www.youtube.com/watch?v=JiwZQNYlGQI)
+
+## 纪录片
+
+* [Parenting a Family with Autism Spectrum Disorder - Youtube](https://www.youtube.com/watch?v=uBWCY0yF_5g)
+	* 新西兰ASD家庭，很有爱的一家。并且不得不感叹新西兰对需要特殊帮助的儿童很有经验。
 	
+* [Autism Documentary: Inside the UK's only school for autistic girls](https://www.youtube.com/watch?v=Iy3jYIqRIJg)
+	* 英国AS女校
+		
 # **ASD书单**
 以上的网站和频道亦有推荐各类帮助书籍，此处挑出一些我本人觉得比较有趣的书。
 
