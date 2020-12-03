@@ -29,7 +29,7 @@ NT的”反义词“不是AS/ASD。NT的”反义词“是神经发育不典型�
 
 ![p1](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/QnA_articles/qna_article2_p1.png)
 
-最后，我做了一张图来表示这些术语之间的关系。
+最后，我做了一张图来表示这些术语之间的关系（因为不是科学概念图示非100%准确，仅供参考）。
 ![p1](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/QnA_articles/qna_article2_p2.jpg)
 
 ## **参考**
