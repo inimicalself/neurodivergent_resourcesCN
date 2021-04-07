@@ -1,27 +1,31 @@
 # 青少年成人ASD+ADHD墙内科普和自助资源列举
 
-**版本：2020.12.03**
+**版本：2021.04.07**
 
 该资源整理的其中一部分来自上一篇外网的同名墙内资源，方便国内的朋友直接使用，并列举了一些网站替代和扩充了书单。主要为ASD。
 
 抱歉因为本人对于简体中文直接对应的资料资源了解甚少，时间有限没有办法阅览所有的书籍，因此列举了一些评分较高的、或者其他ASD/ADHD朋友常推荐过的，对他们有帮助的资料。虽然涉及ASD的简体中文书籍有不少，但是适合青年自助的，有积极科普意义的只有一小部分，因此我只挑了一部分我觉得比较好的资料列举。
 
-如果您有其他适合的自助/科普资源推荐，欢迎私信我的微博 @摩羽观星。
+如果您有其他适合的自助/科普资源推荐，欢迎私信我的微博 @InimicalSelf。
 
 ## 中文网站/资料
 1. **青衫Aspie**
    可以获取成年ASD,  ADHD的专业科普和量表，还有中国大陆可确诊的医院和就院流程。
 	  * 官网：[青衫 Aspie - 致力于孤独症谱系权威资讯资源](https://qingshanasd.cn/)
 	  * 豆瓣：[青衫Aspie的日记](https://www.douban.com/people/Qingshan_Aspie/notes)
-	  * 微信公众号：青衫Aspie
+	  * 微信公众号/知乎：青衫Aspie —— 知乎可以向本人付费咨询
 <br/><br/>
 
-2. **微信公众号：两个AS男人**
+2. **微信公众号：华夏特教**
+   大陆翻译最多ASD相关书籍的出版商，值得关注。
+<br/><br/>
+
+3. **微信公众号：两个AS男人**
 
     谢谢御野的推荐。公众号作者是一位父亲写自己的育儿经历，儿子有阿斯伯格现已上大学。非常适合ASD家长阅读，青少年可以把这个公众号推荐给家长。
 <br/><br/>
 
-3. **微信公众号：地球上的阿斯星人**
+4. **微信公众号：地球上的阿斯星人**
 
    一群确诊和疑似阿斯伯格综合征人士创办的传播平台，同名B站账号有很多搬运。
 <br/><br/>
@@ -32,19 +36,22 @@
 
 2. [Aspieonearth的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/188510481)
 
-   Ta们搬运了好多Tony Attwood教授的ASD科普，吹爆了！！新旧账户都放在了上面。<br/><br/>
+   这是地球上的阿斯星人新账号，搬运了很多国内外的ASD博主以及专业人士的科普，还有很多纪录片。<br/><br/>
 
+3. [阿星球的阿星人的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/702674830?from=search&seid=14442899197421980539)
+   
+   和青衫Aspie合作的法国定居ASD博主，分享个人经验和问答。<br/><br/>
 
-3. [【TED演讲】复制和粘贴—阿斯伯格女孩_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1it411F7wR?from=search&seid=14519758367442248416) 
+4. [【TED演讲】复制和粘贴—阿斯伯格女孩_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1it411F7wR?from=search&seid=14519758367442248416) 
 
     一位因为社交伪装被漏诊的女孩讲述自己的故事 。<br/><br/>
 
-4. [【TED】如果非自闭症是一种疾病——你能否想象一个自己是个少数者的世界_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1jJ411a7Nt) 
+5. [【TED】如果非自闭症是一种疾病——你能否想象一个自己是个少数者的世界_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1jJ411a7Nt) 
 
     法国ASD漫画家的演讲，她的书《孤独患者》已在中国大陆出版，见书单。
 <br/><br/>
 
-5. [Failing at Normal: An ADHD Success Story | Jessica McCabe | TEDxBratislava_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1q4411o78G/)
+6. [Failing at Normal: An ADHD Success Story | Jessica McCabe | TEDxBratislava_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1q4411o78G/)
  
     ADHD的创业播主Jessica讲述了她从大学辍学到自主创业的经历。Youtube频道名How to ADHD。
 
@@ -53,28 +60,29 @@
 
 抱歉目前还没有整理ADHD的书目。书单如有链接均为豆瓣读书。
 
-1. [阿斯伯格综合征完全指南 (豆瓣)](https://book.douban.com/subject/11524925/)  *Tony Attwood 著，华夏出版社*。
-最权威的阿斯伯格综合征参考书。
+1. [阿斯伯格综合征完全指南 (豆瓣)](https://book.douban.com/subject/11524925/)  *Tony Attwood 著，华夏出版社*。推荐度：★★★★★。
+英国儿童发育障碍医生托尼·阿特伍德（Tony Attwood）编写的目前最权威的阿斯伯格综合征参考书。注：该书最早出版于DSM-4时代，2013的DSM-5已经将阿斯伯格综合征删除，原阿斯伯格综合征现在已经和和早前的儿童孤独症(Autistic Disorder)，待分类的广泛性发展障碍(PDD-NOS)一同合并进孤独症谱系障碍 (ASD)。
 <br/><br/>
 
-2. [你好，我是阿斯伯格女孩 (豆瓣)](https://book.douban.com/subject/26721515/)  *Ruby Simone 著，华夏出版社*。
+2. [你好，我是阿斯伯格女孩 (豆瓣)](https://book.douban.com/subject/26721515/)  *Ruby Simone 著，华夏出版社*。推荐度：★★★★☆。
  作者本身有阿斯伯格，本书她用个人经历，给其他阿斯少女少年提出种种生活上的实用性建议。
 <br/><br/>
 
-3. [我想飞进天空 (豆瓣)](https://book.douban.com/subject/26759534/) *东田直树 著，中信出版集团*。
+3. [我想飞进天空 (豆瓣)](https://book.douban.com/subject/26759534/) *东田直树 著，中信出版集团*。推荐度：★★★☆☆。
 适合想要更加了解ASD的朋友。日本自闭症少年东田直树是一位作家。虽然他没有言语能力，但有惊人的写作天赋，他用文字与他人交流，讲述了自己的内心世界。
 <br/><br/>
 
-4. [故作正常 (豆瓣)](https://book.douban.com/subject/26958752/)  *Liane Holliday Willey & Tony Attwood 著，华夏出版社。*
+4. [故作正常 (豆瓣)](https://book.douban.com/subject/26958752/)  *Liane Holliday Willey & Tony Attwood 著，华夏出版社。* 推荐度：★★★★☆。
 本书亮点在于给阿斯伯格人士的高校生存建议，家庭生活，和应对感知问题的策略，有很多有建设性意义的点子，适合ASD朋友。
 <br/><br/>
 
-5. [阿斯伯格综合征儿童上学与社交技能训练 (豆瓣)](https://book.douban.com/subject/33445975/) *Blythe Grossberg 著，化学工业出版社。* <a name="book1">
+5. [阿斯伯格综合征儿童上学与社交技能训练 (豆瓣)](https://book.douban.com/subject/33445975/) *Blythe Grossberg 著，化学工业出版社。* <a name="book1"> 推荐度：★★★☆☆。
 本书给在学校环境下的孩子提出社交上的改进方案，适合初高中ASD学生阅读。虽然和老师的交流说明不太符合国情（可能会被认为搞特殊），但其社交上的建议还有和同学交往的潜规则的章节也都值得参考。如果不想购买整一本，我之后会写一篇读书笔记提炼一下，链接也会放在这里。
 <br/><br/>
 
-6. [孤独患者 (豆瓣)](https://book.douban.com/subject/30487959/) *Julie Dachez 著， 北京联合出版公司。*
-非常可爱的一本漫画，如果你是一名ASD女性那么这本书会给你带来很多共鸣。这本书给读者最大的启示是，按着让自己舒服的方式生活，找能理解自己包容自己的人做朋友，有梦想就去追。
+6. [孤独患者 (豆瓣)](https://book.douban.com/subject/30487959/) *Julie Dachez 著， 北京联合出版公司。* 推荐度：★★★★☆。
+本书是一本漫画，如果你是一名ASD女性那么这本书会给你带来更多共鸣。这本书给读者最大的启示是，按着让自己舒服的方式生活，找能理解自己包容自己的人做朋友，有梦想就去追。注：该书原标题为*La Différence Invisible* (隐形的差异），中文翻译的标题虽然有点哗众取宠，但书内文字比较简单，对比了原文之后我认为书内翻译还是比较准确的。
+
 本书的前言节选：
 <br/><br/>
 > 这本漫画是献给你的。
@@ -94,21 +102,22 @@
 > 然后邀请身边的人和你一起体验“离经叛道”的生活。
 <br/><br/>
 
-**以下列举一些我本人没有看过的,  但由多个ASD朋友推荐和好评比较高的书。**
+7. [不同的音调 (豆瓣)](https://book.douban.com/subject/30486813/)  *Caren Zucker & John Donvan 著，四川人民出版社。* 推荐度：★★☆☆☆。
+这本书讲述了孤独症在**美国**的历史发展，从世界上第一位被诊断为孤独症的唐纳德（Donald Triplett）的故事作为开端，经历了“冰箱妈妈”理论，1960年的“儿童期精神分裂症”，麻疹疫苗引发孤独症的争端，自闭之声（Autism Speaks）的创始，神经多样性运动，到2013年DSM-5孤独症谱系障碍时代的开始结束。这本书叙述的事件基本全部发生在美国而很少提及其他国家，形式是一个接一个的故事和各种社会运动的细节，但对ASD历史发展有兴趣的朋友有一定的参考意义。注：该书作为翻译版，措辞有多处不妥当之处，可能会引起部分人群不适，例如将所有孤独症人士称作“患者”和将孤独症称作“病”。除此之外，该书作为纪实录，立场实际上不是特别公正，对ASD人士不友好，书中很一大部分内容用来描写孤独症孩子家长的不幸，却很少从孤独症本人的视角叙述；多处将孤独症描绘成“令人迷惑”，“可怕的疾病”，“令人绝望的”，夹带轻视高功能孤独症人士的同理心。
 
-1. [不同的音调 (豆瓣)](https://book.douban.com/subject/30486813/)  *Caren Zucker & John Donvan 著，四川人民出版社。*
-这本书探讨了ASD的历史和社会学，用不同的ASD个体的经历描述了ASD的社会学发展，从二战的阿斯伯格到如今的神经多样性运动（Neurodiversity Movement）。除了适合对神经多样性运动和ASD社会历史发展有兴趣的朋友阅读外，非常有学术意义。
 <br/><br/>
 
-2. [我们为什么不说话 (豆瓣)](https://book.douban.com/subject/3016336/) *Temple Grandin 等 著，华东师范大学出版社。*
+**以下列举一些我本人没有看过的,  但由多个ASD朋友推荐和好评比较高的书。**
+
+1. [我们为什么不说话 (豆瓣)](https://book.douban.com/subject/3016336/) *Temple Grandin 等 著，华东师范大学出版社。*
 作者Temple Grandin博士是著名的动物学家，她有ASD。她给周围的居民讲解动物的行为，并告诉大家这和自闭症患者的相似之处。2010年还上映了她的传记同名电影 [自闭历程 (豆瓣)](https://movie.douban.com/subject/3236904/) IMDB 8.6分 烂番茄100% 。
 <br/><br/>
 
-3. [用图像思考 (豆瓣)](https://book.douban.com/subject/25717296/) *Temple Grandin 著，华夏出版社。*
+2. [用图像思考 (豆瓣)](https://book.douban.com/subject/25717296/) *Temple Grandin 著，华夏出版社。*
 本书解释了ASD用图像来思考的方式，适合教育者也适合ASD人士更好地理解自己。 作者还是前面提到过的著名ASD动物学家 Dr. Temple Grandin.
 <br/><br/>
 
-4. [社交潜规则 (豆瓣)](https://book.douban.com/subject/21967741/) *Temple Grandin, Sean Barron等 著，华夏出版社。*
+3. [社交潜规则 (豆瓣)](https://book.douban.com/subject/21967741/) *Temple Grandin, Sean Barron等 著，华夏出版社。*
 描述了ASD理解社会的方式，并且向ASD解释社交的潜规则。看了下目录，的确提出了很多常见的潜规则，需要社交帮助的推荐阅读。以下是目录节选：
   <br/><br/>
 > 第三幕 十条社交潜规则
