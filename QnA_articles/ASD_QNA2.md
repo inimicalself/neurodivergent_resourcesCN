@@ -30,7 +30,7 @@ NT的”反义词“不是AS/ASD。NT的”反义词“是神经发育不典型�
 ![p1](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/QnA_articles/qna_article2_p1.png)
 
 最后，我做了一张图来表示这些术语之间的关系（因为不是科学概念图示非100%准确，仅供参考）。
-![p1](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/QnA_articles/qna_article2_p2.jpg)
+![p1](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/QnA_articles/%E7%A5%9E%E7%BB%8F%E5%A4%9A%E6%A0%B7%E6%80%A7venn%20diagram.updated.jpg)
 
 ## **参考**
 [1] 剑桥词典  [allistic汉语(繁体)翻译：剑桥词典](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/allistic)
