@@ -9,3 +9,8 @@
 * [ASD/ADHD 中文资源罗列](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/ND_resourcesCN.md)
 
 * [ASD/ADHD 国际互联网（英文）资源](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/ND_resourcesEN.md)
+
+## 文献阅读
+* [ASD，多元化性向与性别](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/bibliography/ASDandGender_readinglist.md)
+* [天宝·葛兰汀（Temple Grandin）的全序和外显子基因检测分析 [英文笔记 + 中文总结]](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/bibliography/ASDandGender_readinglist.md)
+
