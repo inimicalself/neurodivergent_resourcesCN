@@ -12,5 +12,5 @@
 
 ## 文献阅读
 * [ASD，多元化性向与性别](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/bibliography/ASDandGender_readinglist.md)
-* [天宝·葛兰汀（Temple Grandin）的全序和外显子基因检测分析 [英文笔记 + 中文总结]](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/bibliography/ASDandGender_readinglist.md)
+* [天宝·葛兰汀（Temple Grandin）的全序和外显子基因检测分析 [英文笔记 + 中文总结]](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/bibliography/vanzo_etal_2021.md)
 
