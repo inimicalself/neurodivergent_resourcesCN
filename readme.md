@@ -8,4 +8,4 @@
 ## 资源篇
 * [中文资源罗列](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/ND_resourcesCN.md)
 
-* [国际互联网资源](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/ND_resourcesEN.md)
+* [国际互联网（英文）资源](https://github.com/inimicalself/neurodivergent_resourcesCN/blob/master/ND_resourcesEN.md)
