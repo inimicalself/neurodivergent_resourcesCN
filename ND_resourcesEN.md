@@ -69,6 +69,7 @@
 	* 英国AS女校
 		
 # **ASD书单**
+**！该章节严禁转载！**
 以上的网站和频道亦有推荐各类帮助书籍，此处挑出一些我本人觉得比较有趣的书。
 
  * *All cats have Asperger syndrome* by Kathy Hoopmann
