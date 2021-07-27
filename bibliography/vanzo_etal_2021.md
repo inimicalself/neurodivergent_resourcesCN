@@ -1,9 +1,10 @@
 # 【文献笔记】天宝·葛兰汀（Temple Grandin）的全序和外显子基因检测分析 [英文笔记 + 中文总结]
 
+**本文请勿转载*
+
 ASD基因探索: 著名动物学家、孤独症人士天宝的全序和外显子基因检测分析结果。
 
 Vanzo RJ, Prasad A, Staunch L, Hensel CH, Serrano MA, Wassman ER, Kaplun A, Grandin T, Boles RG. The Temple Grandin Genome: Comprehensive Analysis in a Scientist with High-Functioning Autism. Journal of Personalized Medicine. 2021; 11(1):21. https://doi.org/10.3390/jpm11010021
-
 
 ## Jargon 
 OMIM - online mendelian inheritance in man
